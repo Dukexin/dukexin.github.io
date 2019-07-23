@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dukexin.github.io</id>
     <title>真鞋</title>
-    <updated>2019-07-23T19:05:56.489Z</updated>
+    <updated>2019-07-23T19:10:57.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dukexin.github.io"/>
     <link rel="self" href="https://dukexin.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://dukexin.github.io/images/avatar.png</logo>
     <icon>https://dukexin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 真鞋</rights>
+    <entry>
+        <title type="html"><![CDATA[粉红棋盘格AUT]]></title>
+        <id>https://dukexin.github.io/post/gZaIYJIL1</id>
+        <link href="https://dukexin.github.io/post/gZaIYJIL1">
+        </link>
+        <updated>2019-07-23T19:08:43.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="http://wx2.sinaimg.cn/mw690/007auXnWgy1g5ad8ajxzpj30u014076x.jpg" alt=""><br>
+<img src="http://wx4.sinaimg.cn/mw690/007auXnWgy1g5ad8g9telj31400u041s.jpg" alt=""><br>
+<img src="http://wx3.sinaimg.cn/mw690/007auXnWgy1g5ad8tio3bj30u0140jtb.jpg" alt=""><br>
+<img src="http://wx1.sinaimg.cn/mw690/007auXnWgy1g5ad8yn90oj30u014042w.jpg" alt=""></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="http://wx2.sinaimg.cn/mw690/007auXnWgy1g5ad8ajxzpj30u014076x.jpg" alt=""><br>
+<img src="http://wx4.sinaimg.cn/mw690/007auXnWgy1g5ad8g9telj31400u041s.jpg" alt=""><br>
+<img src="http://wx3.sinaimg.cn/mw690/007auXnWgy1g5ad8tio3bj30u0140jtb.jpg" alt=""><br>
+<img src="http://wx1.sinaimg.cn/mw690/007auXnWgy1g5ad8yn90oj30u014042w.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白色AUT包边]]></title>
         <id>https://dukexin.github.io/post/JCPFyfHw3</id>
@@ -170,12 +187,5 @@
         <link href="https://dukexin.github.io/post/mid">
         </link>
         <updated>2019-07-23T09:46:20.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK-8]]></title>
-        <id>https://dukexin.github.io/post/sk-8</id>
-        <link href="https://dukexin.github.io/post/sk-8">
-        </link>
-        <updated>2019-07-23T09:37:47.000Z</updated>
     </entry>
 </feed>
